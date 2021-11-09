@@ -1,5 +1,7 @@
 #!/bin/bash
 
+
+
 ## Script to request infrastructure and storage nodes
 ## Script to install OCS
 ## Based on Cloud-Native-Toolkit gitops production reference
